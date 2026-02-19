@@ -3,11 +3,8 @@ uvicorn[standard]==0.27.1
 pydantic==2.6.1
 python-multipart==0.0.9
 
-# Groq LLM client
 groq==0.4.2
+httpx==0.27.0
 
-# PDF processing
 pypdf==4.1.0
-
-# HTTP requests
 requests==2.31.0
